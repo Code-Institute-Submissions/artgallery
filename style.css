@@ -1,0 +1,17 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.border{
+    width:200px;
+    height:280px;
+}
+
+/* Hide border if screen size smaller than 992px */ 
+@media only screen and (max-width: 992px) { 
+    .border {
+        width:auto;
+        height:auto;
+        border-color:transparent !important;
+    } 
+} 
