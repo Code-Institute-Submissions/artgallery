@@ -1,7 +1,10 @@
-
+.logo {
+    margin-left:10px;
+    padding:3px;
+}
 
 h1 { 
-    font-size: 130%;
+    font-size: 140%;
     padding: 0px;
     margin: 0px 0px 5px 0px;
     font-weight: 500;
@@ -24,6 +27,14 @@ body{
 .border{
     width:200px;
     height:280px;
+}
+
+#footer{
+    font-size: 75%;
+    margin-bottom:15px;
+    background-color:white;
+    width:100%;
+    text-align:right;
 }
 
 /* Hide border if screen size smaller than 992px */ 
