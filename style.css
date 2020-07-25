@@ -54,6 +54,7 @@ h2 {
     }
     .contact, .faq {
         padding-left:3px;
+        padding-right:3px;
     }
     body{
         font-size: 95%;
