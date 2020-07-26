@@ -10,14 +10,17 @@
 -	A one day interview was conducted with artist / client to understand artist profile, art pieces, and objectives for the website
 -	Artist shared her personal journey in painting and learning about art over the years, and her motivations for this hobby
 -	Artist also shared her style (watercolor) and themes of paintings (nature, landscapes, places of interest), and dimensions of art pieces
--	Artist and I established that the goal of the website will be to share the artwork with the friend and the world, while creating a personal branding, and achieve sales conversions where possible
+-	Artist's main goals of the website will be to: 
+(1) have a customised platform share the artwork with her friends and the world
+(2) creating a personal branding in the art scene
+(3) achieve revenue from the sale of her art pieces
 
 #### 2.2 Target audience (in order of priority)
 -	Artists’ friends and social networks (for website to be be shared via social media or messaging Apps)
 -	Art collectors
 -	Art exhibition curators
--	Fellow artists (for collaboration)
 -	Clients interested in commissioned art work
+-	Fellow artists (for collaboration)
 
 #### 2.3 Online Marketing Strategy
 -	Social media traffic (Artist can share website with her friends and network)
