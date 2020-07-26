@@ -11,8 +11,8 @@
 -	Artist shared her personal journey in painting and learning about art over the years, and her motivations for this hobby
 -	Artist also shared her style (watercolor) and themes of paintings (nature, landscapes, places of interest), and dimensions of art pieces
 -	Artist's main goals of the website will be to: 
-(1) have a customised platform share the artwork with her friends and the world
-(2) creating a personal branding in the art scene
+(1) have a customised platform to share the artwork with her friends and the world
+(2) create a personal branding in the art scene
 (3) achieve revenue from the sale of her art pieces
 
 #### 2.2 Target audience (in order of priority)
