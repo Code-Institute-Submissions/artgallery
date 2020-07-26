@@ -1,3 +1,5 @@
+# Sutheera Art Gallery
+By: **Foo Jiun Yang**
 ## 1. Project Objective
 
 -	To build a personal art listing gallery for a Sutheera, a client who is an artist 
