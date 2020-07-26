@@ -2,7 +2,7 @@
 
 -	To build a personal art listing gallery for a Sutheera, a client who is an artist 
 -	The goal of the gallery is for the client to establish her own personal branding as an artist, and generate revenue from the sale of her art pieces
-- Final product: https://jyfoo213.github.io/artgallery/
+- Final product:<a href="https://jyfoo213.github.io/artgallery/" target="_blank">Sutheera Art Gallery</a> 
 
 ## 2. Gathering Business Requirements
 #### 2.1 Understanding Client's Requirements and Persona
