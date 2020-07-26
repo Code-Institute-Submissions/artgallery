@@ -32,14 +32,17 @@ h2 {
     width:100%;
     text-align:right;
 }
-/* Hide border if screen size smaller than 992px */ 
+/* Display changes if screen size smaller than 992px */ 
 @media only screen and (max-width: 992px) { 
+    /* hide <br> in about page */
     .small-hide{
         display:none;
     }
+    /* extra magin for logo */
     .nav-link{
         margin-left:18px;
     }
+    /* hide border boxes in small screen */
     .border {
         width:auto;
         height:auto;
