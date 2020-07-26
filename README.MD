@@ -57,7 +57,7 @@ It was important for the website to contain the following features to ensure the
 
 #### 3.5 Test Implementation (Specific Steps Reproduced)
 -	**Navbar**: Clicked all navbar links (about, artwork, contact, FAQ) to ensure it brings user to respective page section
--	**Responsiveness**: Scroll through website to ensure it was responsive across all screen sizes, displaying consistent user interface and experience
+-	**Responsiveness**: Scrolled through website to ensure it was responsive across all screen sizes, displaying consistent user interface and experience
 -	**External links**: Clicked external links (Whatsapp link) to ensure it opens up to a new page for user to contact artist
 
 #### 3.6. Deployment
