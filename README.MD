@@ -57,7 +57,7 @@ It was important for the website to contain the following features to ensure the
 -	**Responsiveness**: Scroll through website to ensure it was responsive across all screen sizes, displaying consistent user interface and experience
 -	**External links**: Clicked external links (Whatsapp link) to ensure it opens up to a new page for user to contact artist
 
-### 3.6. Deployment
+#### 3.6. Deployment
 -	Project was built on Visual Studio Code
 -	Project was committed, staged, and pushed to GitHub
 
